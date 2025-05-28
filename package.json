@@ -19,5 +19,8 @@
     "eslint": "^9",
     "eslint-config-next": "15.3.2",
     "@eslint/eslintrc": "^3"
-  }
+  },
+  "scripts": {
+  "start": "PORT=3001 next start"
+}
 }
