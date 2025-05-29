@@ -3,7 +3,7 @@ import React from 'react'
 import Link from 'next/link';
 import { FaFacebook, FaInstagram, FaYoutube } from "react-icons/fa";
 function Footer() {
-    r
+    
             <li className="mb-2">
               <a href="#" className="hover:underline">
                 Privacy Policy
