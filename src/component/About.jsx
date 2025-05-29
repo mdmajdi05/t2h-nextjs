@@ -11,7 +11,7 @@ function About() {
                 <p className="text-gray-700 mb-6">
                 Triptohoneymoon.com is an expert travel brand under Admire Tours & Holidays Pvt Ltd, dedicated exclusively to crafting exceptional honeymoon experiences for couples across domestic & international destinations. Our mission is to transform your honeymoon dreams into cherished memories by offering p
             </div>
-        </div>
+        
     );
 }
 
